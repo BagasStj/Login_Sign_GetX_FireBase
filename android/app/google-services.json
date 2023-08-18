@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "316335916241",
+    "project_id": "firebse-2-39cc7",
+    "storage_bucket": "firebse-2-39cc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316335916241:android:591aff5584b495f45131f0",
+        "android_client_info": {
+          "package_name": "com.swi.swichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316335916241-7c0eds8ae7dclo366vjr2hkrf327cfgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swi.swichat",
+            "certificate_hash": "69056323eded4cc8445b8997cf639456a0bb734f"
+          }
+        },
+        {
+          "client_id": "316335916241-fd5br5q8gscg5l444o5q542pthrfo971.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCayOZ3RZXuC_j1fzxYy2MtDwLlXUGBNPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316335916241-fd5br5q8gscg5l444o5q542pthrfo971.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
